@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "mc bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Tryhardes.aternos.me",
+    "port": 20033,
     "version": "",
     "try-creative": false
   },
@@ -41,7 +41,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
-  "movement": {
+  "movement": true,
     "enabled": true,
     "circle-walk": {
       "enabled": true,
