@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tyrhard.exaroton.me:13842",
+    "ip": "Tyrhard.exaroton.me",
     "port": 13842,
     "version": "",
     "try-creative": false
