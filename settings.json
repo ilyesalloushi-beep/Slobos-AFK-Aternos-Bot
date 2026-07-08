@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friendlysmp-aG2c.aternos.me",
-    "port": 42016,
+    "ip": "Tryhardes.aternos.me:23013",
+    "port": 23013,
     "version": "",
     "try-creative": false
   },
