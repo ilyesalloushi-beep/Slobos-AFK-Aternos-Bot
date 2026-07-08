@@ -53,12 +53,12 @@
       
       "enabled": true,
       "interval": 5000
-    },
+    
     "random-jump": {
       "enabled": true,
       "interval": 10000
     }
-  },
+  
   "modules": {
     "avoidMobs": true,
     "combat": true,
@@ -82,8 +82,8 @@
       "disconnect": true,
       "chat": false
     }
-  },
+  
   "chat": {
     "respond": true
   }
-}
+
