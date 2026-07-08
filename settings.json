@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tryhardes.aternos.me",
+    "ip": "Tryhardes.aternos.me:23013",
     "port": 23013,
     "version": "",
     "try-creative": false
