@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "mc-bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Douteem.aternos.me",
-    "port": 61533,
+    "ip": "Tyrhard.exaroton.me:13842",
+    "port": 13842,
     "version": "",
     "try-creative": false
   },
