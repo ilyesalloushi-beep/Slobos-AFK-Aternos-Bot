@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": 
-    "username": "mcbot"
+    "username": "mcbot",
     "password": "",
-    "type": "online"
+    "type": "online",
   },
   "server": {
     "ip": "Tryhardes.aternos.me",
@@ -20,11 +20,11 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalol78",
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": true,
     },
     "chat-messages": {
       "enabled": true,
@@ -39,14 +39,14 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 120000,
   },
   "movement":
     "enabled": true,
     "circle-walk": true,
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 3000,
     
     "look-around": true,
       
