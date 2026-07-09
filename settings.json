@@ -3,7 +3,7 @@
   "bot-account": 
     "username": "mcbot"
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Tryhardest.aternos.me",
