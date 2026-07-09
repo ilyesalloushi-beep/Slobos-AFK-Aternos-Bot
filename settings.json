@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "Tryhardest.aternos.me",
-    "port": 48473,
+    "ip": "Tryhardes.aternos.me:23013",
+    "port": 23013,
     "version": "",
     "try-creative": false
   },
