@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": 
-    "username": "mcbot"
+    "username": "mcbot",
     "password": ""
-    "type": "online",
+    "type": "ofline",
   },
   "server": {
     "ip": "Tryhardes.aternos.me",
