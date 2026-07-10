@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dzhgame.aternos.me:41694",
+    "ip": "Dzhgame.aternos.me",
     "port": 41694,
     "version": "",
     "try-creative": false
