@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "mc-bot",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Dzhgame.aternos.me",
+    "ip": "Dzhgame.aternos.me:41694",
     "port": 41694,
     "version": "",
     "try-creative": false
