@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "mc-bot",
     "password": "",
     "type": "offline"
   },
@@ -41,7 +41,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
-  "movement": {,
+  "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
