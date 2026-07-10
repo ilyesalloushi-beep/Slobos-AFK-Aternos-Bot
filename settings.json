@@ -3,7 +3,7 @@
   "bot-account":{ 
     "username": "t",
     "password": "",
-    "type": "ofline",
+    "type": "ofline"
   },
   "server": {
     "ip": "ilyesfms.aternos.me",
