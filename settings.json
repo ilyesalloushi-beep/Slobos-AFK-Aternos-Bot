@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "mc-bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ilyesfms.aternos.me",
+    "ip": "Dzhgame.aternos.me",
     "port": 41694,
     "version": "",
     "try-creative": false
@@ -41,14 +41,14 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
-  "movement": {
+  "movement": true,
     "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
       "speed": 3000
     },
-    "look-around": {
+    "look-around": true,
       "enabled": true,
       "interval": 5000
     },
