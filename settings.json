@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
-  "bot-account": { 
-    "username": "afkbot",
+  "bot-account": {
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ilyesfms.aternos.me",
     "port": 41694,
-    "version": "26,12",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -20,11 +20,11 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78",
+      "password": "chalol78"
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true,
+      "sneak": true
     },
     "chat-messages": {
       "enabled": true,
@@ -39,14 +39,14 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
+    "max-reconnect-delay": 120000
   },
-  "movement":
+  "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000,
+      "speed": 3000
     },
     "look-around": {
       "enabled": true,
@@ -56,7 +56,7 @@
       "enabled": true,
       "interval": 10000
     }
-  
+  },
   "modules": {
     "avoidMobs": true,
     "combat": true,
@@ -80,8 +80,8 @@
       "disconnect": true,
       "chat": false
     }
-  
+  },
   "chat": {
     "respond": true
   }
-
+}
