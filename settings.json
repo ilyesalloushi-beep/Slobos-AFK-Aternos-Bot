@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
-  "bot-account": 
-    "username": "mcbot",
-    "password": ""
+  "bot-account":{ 
+    "username": "t",
+    "password": "",
     "type": "ofline",
   },
   "server": {
-    "ip": "Tryhardes.aternos.me",
-    "port": 23013,
+    "ip": "ilyesfms.aternos.me",
+    "port": 41694,
     "version": "26,12",
     "try-creative": false
   },
