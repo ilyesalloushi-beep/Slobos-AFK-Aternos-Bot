@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
-  "bot-account":{ 
-    "username": "t",
+  "bot-account": { 
+    "username": "afkbot",
     "password": "",
-    "type": "ofline"
+    "type": "offline"
   },
   "server": {
     "ip": "ilyesfms.aternos.me",
